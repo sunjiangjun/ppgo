@@ -42,8 +42,4 @@ API界面<br/>
 前台访问：http://your_host:8081    
 用户名：admin 密码：george518    
 
-联系我
-----
-qq:41352963
-
 
